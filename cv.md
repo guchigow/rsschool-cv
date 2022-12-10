@@ -14,8 +14,9 @@ Ruslan Guchigov
 ⌨️ Me at [Codewars](https://www.codewars.com/users/lanov64).
 
 
-Example simple js code: 
-```function validParentheses(parens) {
+Example simple js code:
+```
+function validParentheses(parens) {
     let open, close;
     close = open = 0;
     for(let i = 0; i < parens.length; i++) {
