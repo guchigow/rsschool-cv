@@ -1,9 +1,11 @@
 1. Ruslan Guchigov
 ![ruslan-photo](photo.jpg)
 2. 📫 How to reach me: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/hehe101#7638/), email:lanov64@gmail.com
-3. I’m currently study at [Rolling Scopes School](https://app.rs.school/). But I don't want to stop at just the web development. Long-term goal is to be great programmer and be proficient in several programming languages.
+3. Short information: I’m currently study at [Rolling Scopes School](https://app.rs.school/). But I don't want to stop at just the web development. Long-term goal is to be great programmer and be proficient in several programming languages.
 4. 💻 My technologies: html, css, js, basic knowledge about C, linux, bash, git.
 5. Me at [Codewars](https://www.codewars.com/users/lanov64).
+
+
 Example simple js code: 
 ```function validParentheses(parens) {
   let open, close;
