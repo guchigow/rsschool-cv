@@ -1,4 +1,5 @@
 Ruslan Guchigov
+<img src=photo.jpg width="200">
 - 📫 How to reach me: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/hehe101#7638/), email:lanov64@gmail.com
 - Short information: I’m currently study at [Rolling Scopes School](https://app.rs.school/). But I don't want to stop at just the web development. Long-term goal is to be great programmer and be proficient in several programming languages.
 - 💻 My technologies: html, css, js, basic knowledge about C, linux, bash, git.
