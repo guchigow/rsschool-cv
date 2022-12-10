@@ -25,7 +25,7 @@ function validParentheses(parens) {
         if(parens[i] === ")") close++;
     }
     return open === close;
-    }
+}
 ```
 
 🧑‍💼 Work experience: I have everything ahead.
