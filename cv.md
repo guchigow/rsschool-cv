@@ -2,7 +2,7 @@ Ruslan Guchigov
 <img src="ph300.jpg" width="200" align="right">
 
 
-📫 Contacts: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/hehe101#7638/), email: lanov64@gmail.com
+📫 Contacts: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/578533824586317834), email: lanov64@gmail.com
 
 
 ℹ️ Info: I’m currently study at [Rolling Scopes School](https://app.rs.school/). But I don't want to stop at just the web development. Long-term goal is to be great programmer and be proficient in several programming languages.
@@ -25,7 +25,7 @@ function validParentheses(parens) {
         if(parens[i] === ")") close++;
     }
     return open === close;
-}
+    }
 ```
 
 🧑‍💼 Work experience: I have everything ahead.
