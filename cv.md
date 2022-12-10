@@ -1,6 +1,6 @@
 # Ruslan Guchigov
 <img src="ph300.jpg" width="200" align="right">
-## Junior Frontend Developer
+Junior Frontend Developer
 
 ---
 
