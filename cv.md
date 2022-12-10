@@ -1,5 +1,7 @@
 Ruslan Guchigov
 <img src=photo.jpg width="200" align="right">
+
+
 📫 Contacts: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/hehe101#7638/), email: lanov64@gmail.com
 
 
@@ -27,10 +29,10 @@ Ruslan Guchigov
 :office_worker: Work experience: I have everything ahead.
 
 
-:man_student: Education: Self-taught. 
-    - :books: Books:
+- :man_student: Education: Self-taught. 
+     + :books: Books:
         * [Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages](https://www.amazon.com/Head-First-HTML-CSS-Standards-Based-dp-0596159900/dp/0596159900/ref=dp_ob_title_bk)
         * [JavaScript for Kids: A Playful Introduction to Programming](https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/ref=sr_1_1?crid=14SOE3E838OX0&keywords=js+for+kids&qid=1670682051&s=books&sprefix=js+for+kid%2Cstripbooks-intl-ship%2C245&sr=1-1)
         * [Программирование: введение в профессию. Издание изд-ва ДМК Пресс, 2021 г.](http://stolyarov.info/books/programming_intro/dmk)
-    - :rocket: [Course on youtube React Js](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
+      + :rocket: [Course on youtube React Js](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 :us: English: about at A2 level.
