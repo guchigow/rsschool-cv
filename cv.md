@@ -1,23 +1,23 @@
 Ruslan Guchigov
-<img src=photo.jpg width="200">
-- 📫 How to reach me: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/hehe101#7638/), email:lanov64@gmail.com
+<img src=photo.jpg width="200" align="right">
+- 📫 Contacts: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/hehe101#7638/), email:lanov64@gmail.com
 - Short information: I’m currently study at [Rolling Scopes School](https://app.rs.school/). But I don't want to stop at just the web development. Long-term goal is to be great programmer and be proficient in several programming languages.
 - 💻 My technologies: html, css, js, basic knowledge about C, linux, bash, git.
 - Me at [Codewars](https://www.codewars.com/users/lanov64).
 
 
-Example simple js code: 
-```function validParentheses(parens) {
-  let open, close;
-  close = open = 0;
-  for(let i = 0; i < parens.length; i++) {
-    if(open < close) return false;
-    if(parens[i] === "(") open++;
-    if(parens[i] === ")") close++;
-  }
-  return open === close;
-}
-```
+    Example simple js code: 
+        ```function validParentheses(parens) {
+        let open, close;
+        close = open = 0;
+        for(let i = 0; i < parens.length; i++) {
+            if(open < close) return false;
+            if(parens[i] === "(") open++;
+            if(parens[i] === ")") close++;
+        }
+        return open === close;
+        }
+        ```
 - Work experience: I have everything ahead.
 - Education: Self-taught. 
     - :books: Books:
