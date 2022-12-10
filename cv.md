@@ -1,5 +1,5 @@
 Ruslan Guchigov
-<img src=photo.jpg width="200" align="right">
+<img src="ph300.jpg" width="200" align="right">
 
 
 📫 Contacts: [telegram](https://t.me/strongL0ve), [discord](https://discordapp.com/users/hehe101#7638/), email: lanov64@gmail.com
