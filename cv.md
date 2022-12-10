@@ -14,7 +14,7 @@ Ruslan Guchigov
 :keyboard: Me at [Codewars](https://www.codewars.com/users/lanov64).
 
 
-    Example simple js code: 
+Example simple js code: 
 ```function validParentheses(parens) {
     let open, close;
     close = open = 0;
@@ -37,4 +37,4 @@ Ruslan Guchigov
         * [Программирование: введение в профессию. Издание изд-ва ДМК Пресс, 2021 г.](http://stolyarov.info/books/programming_intro/dmk)
       + :rocket: [Course on youtube React Js](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
 
-English :us: : about at A2 level.
+      + :us: English: about at A2 level.
