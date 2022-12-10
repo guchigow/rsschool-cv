@@ -15,7 +15,7 @@ Ruslan Guchigov
 
 
     Example simple js code: 
-    ```function validParentheses(parens) {
+```function validParentheses(parens) {
     let open, close;
     close = open = 0;
     for(let i = 0; i < parens.length; i++) {
@@ -25,7 +25,8 @@ Ruslan Guchigov
     }
     return open === close;
     }
-    ```
+```
+
 :office_worker: Work experience: I have everything ahead.
 
 
@@ -35,4 +36,5 @@ Ruslan Guchigov
         * [JavaScript for Kids: A Playful Introduction to Programming](https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/ref=sr_1_1?crid=14SOE3E838OX0&keywords=js+for+kids&qid=1670682051&s=books&sprefix=js+for+kid%2Cstripbooks-intl-ship%2C245&sr=1-1)
         * [Программирование: введение в профессию. Издание изд-ва ДМК Пресс, 2021 г.](http://stolyarov.info/books/programming_intro/dmk)
       + :rocket: [Course on youtube React Js](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
-:us: English: about at A2 level.
+
+English :us: : about at A2 level.
