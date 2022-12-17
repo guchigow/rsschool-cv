@@ -11,7 +11,6 @@
   color: #000;
   display: inline-block;
   font-weight: 800;
-  background-color: #fff;
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -127,7 +126,7 @@ h1 {
 .main-section {
   display: grid;
   grid-template-columns: 30% 70%;
-  background-color: #74797c;
+  background-color: #fff;
   min-height: 120px;
 }
 
@@ -155,16 +154,15 @@ h1 {
   margin-left: 20px;
   margin-right: 10%;
   padding-right: 30px;
+  padding-bottom: 10px;
   font-size: 15px;
-  color: #fff;
+  color: #000;
   border-top: 1px solid #000;
 }
 
 .main-about .main-section-content {
-  border-top: none;
   font-size: 15px;
-  color: #fff;
-  font-weight: 500;
+  font-weight: 600;
 
 }
 
