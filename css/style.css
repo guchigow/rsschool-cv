@@ -2,13 +2,13 @@
   margin: 5% auto 0 auto;
   max-width: 800px;
   min-height: 100%;
-  font-family: 'Lato', Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Lato", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
   background-color: #110f0f;
-  background-image: url(../img/wall-min.webp);
+  background-image: url("../img/wall-min.webp");
 }
 
 .page-body a {
-  color: #000;
+  color: #000000;
   display: inline-block;
   font-weight: 800;
   padding-left: 5px;
@@ -25,7 +25,7 @@
   display: grid;
   grid-template-columns: 30% 35% 35%;
   grid-template-rows: 280px;
-  background-color: #fff;
+  background-color: #ffffff;
   color: #1a1a1a;
   border-top-left-radius: 20%;
   border-top-right-radius: 20%;
@@ -63,7 +63,7 @@ h1 {
   list-style: none;
   font-size: 18px;
   border-top-right-radius: 50px;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .contact-block {
@@ -82,24 +82,24 @@ h1 {
 }
 
 .contact-email {
-  background-image: url(../img/email-svgrepo-com.svg);
+  background-image: url("../img/email-svgrepo-com.svg");
 }
 
 .contact-telegram {
-  background-image: url(../img/telegram-svgrepo-com.svg);
+  background-image: url("../img/telegram-svgrepo-com.svg");
 }
 
 .contact-discord {
-  background-image: url(../img/discord-svgrepo-com.svg);
+  background-image: url("../img/discord-svgrepo-com.svg");
 }
 
 .contact-location {
-  background-image: url(../img/location-svgrepo-com.svg);
+  background-image: url("../img/location-svgrepo-com.svg");
 }
 
 .kz:hover {
-  background-color: #00ABC2;
-  color: #FFEC2D;
+  background-color: #00abc2;
+  color: #ffec2d;
   font-weight: 800;
 }
 
@@ -111,7 +111,7 @@ h1 {
 .linux {
   font-family: monospace;
   color: #09d424;
-  background-color: #000;
+  background-color: #000000;
 }
 
 .container {
@@ -124,7 +124,7 @@ h1 {
 .main-section {
   display: grid;
   grid-template-columns: 30% 70%;
-  background-color: #fff;
+  background-color: #ffffff;
   min-height: 120px;
 }
 
@@ -142,7 +142,7 @@ h1 {
   margin-left: 50px;
   padding-top: 15px;
   padding-left: 20px;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #ffffff;
   font-size: 20px;
 }
 
@@ -154,8 +154,8 @@ h1 {
   padding-bottom: 20px;
   font-size: 15px;
   font-weight: 500;
-  color: #000;
-  border-top: 1px solid #000;
+  color: #000000;
+  border-top: 1px solid #000000;
 }
 
 .university {
@@ -187,51 +187,51 @@ h1 {
 }
 
 .skill-html {
-  background-image: url(../img/html-svgrepo-com.svg)
+  background-image: url("../img/html-svgrepo-com.svg");
 }
 
 .skill-css {
-  background-image: url(../img/css-svgrepo-com.svg)
+  background-image: url("../img/css-svgrepo-com.svg");
 }
 
 .skill-js {
-  background-image: url(../img/js-svgrepo-com.svg)
+  background-image: url("../img/js-svgrepo-com.svg");
 }
 
 .skill-c {
-  background-image: url(../img/c-svgrepo-com.svg)
+  background-image: url("../img/c-svgrepo-com.svg");
 }
 
 .skill-linux {
-  background-image: url(../img/linux-svgrepo-com.svg)
+  background-image: url("../img/linux-svgrepo-com.svg");
 }
 
 .skill-vim {
-  background-image: url(../img/vim-svgrepo-com.svg)
+  background-image: url("../img/vim-svgrepo-com.svg");
 }
 
 .skill-bash {
-  background-image: url(../img/terminal-bash-svgrepo-com.svg)
+  background-image: url("../img/terminal-bash-svgrepo-com.svg");
 }
 
 .skill-git {
-  background-image: url(../img/git-svgrepo-com.svg)
+  background-image: url("../img/git-svgrepo-com.svg");
 }
 
 .skill-github {
-  background-image: url(../img/github-svgrepo-com.svg)
+  background-image: url("../img/github-svgrepo-com.svg");
 }
 
 .skill-psd {
-  background-image: url(../img/psd-svgrepo-com.svg)
+  background-image: url("../img/psd-svgrepo-com.svg");
 }
 
 .skill-figma {
-  background-image: url(../img/figma-svgrepo-com.svg)
+  background-image: url("../img/figma-svgrepo-com.svg");
 }
 
 .skill-vscode {
-  background-image: url(../img/vscode-svgrepo-com.svg);
+  background-image: url("../img/vscode-svgrepo-com.svg");
 }
 
 footer {
@@ -248,10 +248,7 @@ footer img {
 }
 
 .rss img {
-  margin-right: 0;
-  margin: auto;
-  margin-top: 5px;
-  margin-left: 30%
+  margin-left: 80%;
 }
 
 .year p {
@@ -260,22 +257,20 @@ footer img {
   margin: 0 auto;
   padding-top: 5%;
   padding-left: 55%;
-  color: #000;
+  color: #000000;
 }
 
 summary {
   text-decoration: underline;
-}
-summary:hover {
-  text-decoration: none;
   cursor: pointer;
 }
+
 pre {
   margin: 0;
   padding: 0;
   line-height: 14px;
-  border: 1px solid #000;
-  color: #000;
+  border: 1px solid #000000;
+  color: #000000;
 }
 
 .codewars-block {
@@ -292,14 +287,14 @@ pre {
   width: 20px;
   height: 20px;
   margin-right: 5px;
-  background-image: url(../img/codewars-svgrepo-com.svg);
+  background-image: url("../img/codewars-svgrepo-com.svg");
   background-color: #6d0d0d;
   border-radius: 50%;
 }
 
 .onesoft a:hover {
-  color: #fff;
-  background-color: #00ABC2;
+  color: #ffffff;
+  background-color: #00abc2;
 }
 
 footer .footer-item a:hover {
