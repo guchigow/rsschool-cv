@@ -219,7 +219,13 @@ h1 {
   background-image: url("../img/vscode-svgrepo-com.svg");
 }
 
+.main-code code {
+  font-family: monospace;
+}
+
 summary {
+  margin-top: 0;
+  padding-top: 0;
   text-decoration: underline;
   cursor: pointer;
 }
@@ -249,9 +255,21 @@ pre {
   border-radius: 50%;
 }
 
+.main-section .main-section-content ul {
+  padding-left: 5%;
+}
+
+.main-section video {
+  margin-left: -5%;
+}
+
 .onesoft a:hover {
   color: #ffffff;
   background-color: #00abc2;
+}
+
+.cv-layout {
+  margin-top: 5%;
 }
 
 footer {
