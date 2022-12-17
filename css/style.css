@@ -105,8 +105,6 @@ h1 {
 
 .en {
   text-transform: uppercase;
-  background-color: #fff;
-  font-weight: 900;
   color: #6d0d0d;
 }
 
@@ -154,16 +152,11 @@ h1 {
   margin-left: 20px;
   margin-right: 10%;
   padding-right: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   font-size: 15px;
+  font-weight: 500;
   color: #000;
   border-top: 1px solid #000;
-}
-
-.main-about .main-section-content {
-  font-size: 15px;
-  font-weight: 600;
-
 }
 
 .university {
@@ -294,6 +287,7 @@ pre {
   align-items: center;
   margin-bottom: 5px;
 }
+
 .codewars-img {
   background-position: center left;
   background-repeat: no-repeat;
@@ -305,7 +299,18 @@ pre {
   background-color: #6d0d0d;
   border-radius: 50%;
 }
+
 .onesoft a:hover {
   color: #fff;
   background-color: #00ABC2;
+}
+
+footer .footer-item a:hover {
+  background-color: #f6ac3f;
+}
+
+.footer-item {
+  display: grid;
+  align-items: center;
+  justify-items: center;
 }
