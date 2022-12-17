@@ -89,6 +89,12 @@ h1 {
   background-image: url("../img/location-svgrepo-com.svg");
 }
 
+.work-cv {
+  margin: 20px 50px 0 0;
+  font-size: 20px;
+  text-align: right;
+}
+
 .kz-location:hover {
   font-weight: 800;
   color: #ffec2d;
