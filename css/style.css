@@ -243,10 +243,10 @@ h1 {
 }
 
 footer {
-  background-color: #fff;
+  background-color: #f6ac3f;
   display: grid;
-  grid-template-columns: 30% 35% 35%;
-  grid-template-rows: 50px;
+  grid-template-columns: 30% 33% 33%;
+  grid-template-rows: 100%;
 }
 
 footer img {
@@ -262,13 +262,6 @@ footer img {
   margin-left: 30%
 }
 
-.rss a:hover {
-  background-color: #fff;
-}
-
-.github.logo a, .github.logo {
-  background-color: #1a1a1a;
-}
 
 .year p {
   font-size: 20px;
