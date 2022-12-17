@@ -5,15 +5,20 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Guchigov Ruslan CV">
+  <meta name="keywords" content="HTML, CSS, JavaScript, Front-end">
+  <meta name="author" content="Guchigov Ruslan">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap">
+  <link href="css/prism.css" rel="stylesheet">
   <base target="_blank">
+  <script src="js/prism.js"></script>
   <title>Ruslan Guchigov CV</title>
 </head>
 
 <body class="page-body">
   <header class="header-body">
-    <div class="header-profile-photo"><img src="img/ph300.jpg" alt="profile-photo"></div>
+    <div class="header-profile-photo"><img src="img/ph300.jpg" width="200" height="200" alt="profile-photo"></div>
     <div class="header-name">
       <h1>Ruslan Guchigov</h1>
     </div>
@@ -178,8 +183,10 @@
       </div>
       <div class="main-section-content">
         <p>
+          Highlighted with <a href="https://prismjs.com/">Prism.js</a>
+        </p>
         <pre>
-<code>
+<code class="  language-javascript">
  function validParentheses(parens) {
    let open, close;
    close = open = 0;
@@ -202,28 +209,28 @@
         <h2>Projects</h2>
       </div>
       <div class="main-section-content">
-        <p>
-          <a href="https://github.com/guchigow/calc/blob/main/calc.c">Simple console calculator (C)</a>
+        <p>Simple console calculator (C)<a href="https://github.com/guchigow/calc/blob/main/calc.c">github</a></p>
         <details>
           <summary>example</summary>
-          <img width="500" src="img/calc.gif" alt="calculator">
+          <video width="500" height="300" autoplay loop src="img/calc.webm" controls>
+          </video>
         </details>
       </div>
     </section>
   </main>
   <footer>
-    <div class="logo github">
+    <div class="logo github footer-item">
       <a href="https://github.com/guchigow">
-        <img src="img/GitHub_Logo.png" alt="GitHub_Logo">
+        <img src="img/GitHub_Logo.png" width="200" height="40" alt="GitHub_Logo">
       </a>
     </div>
 
-    <div class="logo rss">
+    <div class="logo rss footer-item">
       <a href="https://rs.school/js/">
-        <img src="img/rs_school_js.svg" alt="rs.school">
+        <img src="img/rs_school_js.svg" width="200" height="50" alt="rs.school">
       </a>
     </div>
-    <div class="year">
+    <div class="year footer-item">
       <p>
         2022
       </p>

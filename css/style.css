@@ -4,7 +4,7 @@
   min-height: 100%;
   font-family: 'Lato', Arial, "Helvetica Neue", Helvetica, sans-serif;
   background-color: #110f0f;
-  background-image: url(../img/High_resolution_wallpaper_background_ID_77701456819-min.jpg);
+  background-image: url(../img/wall-min.webp);
 }
 
 .page-body a {
@@ -105,8 +105,6 @@ h1 {
 
 .en {
   text-transform: uppercase;
-  background-color: #fff;
-  font-weight: 900;
   color: #6d0d0d;
 }
 
@@ -154,16 +152,11 @@ h1 {
   margin-left: 20px;
   margin-right: 10%;
   padding-right: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   font-size: 15px;
+  font-weight: 500;
   color: #000;
   border-top: 1px solid #000;
-}
-
-.main-about .main-section-content {
-  font-size: 15px;
-  font-weight: 600;
-
 }
 
 .university {
@@ -243,10 +236,10 @@ h1 {
 }
 
 footer {
-  background-color: #fff;
+  background-color: #f6ac3f;
   display: grid;
-  grid-template-columns: 30% 35% 35%;
-  grid-template-rows: 50px;
+  grid-template-columns: 30% 33% 33%;
+  grid-template-rows: 100%;
 }
 
 footer img {
@@ -262,13 +255,6 @@ footer img {
   margin-left: 30%
 }
 
-.rss a:hover {
-  background-color: #fff;
-}
-
-.github.logo a, .github.logo {
-  background-color: #1a1a1a;
-}
 
 .year p {
   font-size: 20px;
@@ -301,6 +287,7 @@ pre {
   align-items: center;
   margin-bottom: 5px;
 }
+
 .codewars-img {
   background-position: center left;
   background-repeat: no-repeat;
@@ -312,7 +299,18 @@ pre {
   background-color: #6d0d0d;
   border-radius: 50%;
 }
+
 .onesoft a:hover {
   color: #fff;
   background-color: #00ABC2;
+}
+
+footer .footer-item a:hover {
+  background-color: #f6ac3f;
+}
+
+.footer-item {
+  display: grid;
+  align-items: center;
+  justify-items: center;
 }
