@@ -279,9 +279,6 @@ pre {
   border: 1px solid #000;
   color: #000;
 }
-pre[class*=language-] {
-  background: #fff;
-}
 
 .codewars-block {
   margin-top: 20px;
