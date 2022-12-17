@@ -2,7 +2,7 @@
   margin: 2% auto 1% auto;
   max-width: 800px;
   min-height: 100%;
-  font-family: "Lato", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "RocknRoll One", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
   background-color: #110f0f;
   background-image: url("../img/wall-min.webp");
 }
@@ -22,7 +22,7 @@
 .header-body {
   display: grid;
   grid-template-columns: 30% 35% 35%;
-  grid-template-rows: 280px;
+  grid-template-rows: 290px;
   width: 100%;
   color: #1a1a1a;
   background-color: #ffffff;
@@ -91,7 +91,7 @@ h1 {
 
 .work-cv {
   margin: 20px 50px 0 0;
-  font-size: 20px;
+  font-size: 15px;
   text-align: right;
 }
 
@@ -146,11 +146,6 @@ h1 {
   font-weight: 500;
   color: #000000;
   border-top: 1px solid #000000;
-}
-
-.university {
-  font-size: 18px;
-  text-transform: capitalize;
 }
 
 .skill-list {
