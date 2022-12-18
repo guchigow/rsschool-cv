@@ -1,11 +1,10 @@
 # Ruslan Guchigov
-<img src="ph300.jpg" width="200" align="right">
-Junior Frontend Developer
+Future Frontend Developer
 
 ---
 
 ## 📫 Contacts
-[telegram](https://t.me/strongL0ve),  [discord](https://discordapp.com/users/578533824586317834),  email: lanov64@gmail.com
+[telegram](https://t.me/guch1g0v),  [discord](https://discordapp.com/users/578533824586317834),  email: guchigow@yandex.kz
 
 ---
 ## ℹ️ Info
