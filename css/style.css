@@ -2,7 +2,7 @@
   margin: 2% auto 1% auto;
   max-width: 800px;
   min-height: 100%;
-  font-family: "Lato", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: "RocknRoll One", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
   background-color: #110f0f;
   background-image: url("../img/wall-min.webp");
 }
@@ -22,7 +22,7 @@
 .header-body {
   display: grid;
   grid-template-columns: 30% 35% 35%;
-  grid-template-rows: 280px;
+  grid-template-rows: 290px;
   width: 100%;
   color: #1a1a1a;
   background-color: #ffffff;
@@ -89,6 +89,12 @@ h1 {
   background-image: url("../img/location-svgrepo-com.svg");
 }
 
+.work-cv {
+  margin: 20px 50px 0 0;
+  font-size: 15px;
+  text-align: right;
+}
+
 .kz-location:hover {
   font-weight: 800;
   color: #ffec2d;
@@ -140,11 +146,6 @@ h1 {
   font-weight: 500;
   color: #000000;
   border-top: 1px solid #000000;
-}
-
-.university {
-  font-size: 18px;
-  text-transform: capitalize;
 }
 
 .skill-list {
@@ -218,7 +219,13 @@ h1 {
   background-image: url("../img/vscode-svgrepo-com.svg");
 }
 
+.main-code code {
+  font-family: monospace;
+}
+
 summary {
+  margin-top: 0;
+  padding-top: 0;
   text-decoration: underline;
   cursor: pointer;
 }
@@ -248,9 +255,21 @@ pre {
   border-radius: 50%;
 }
 
+.main-section .main-section-content ul {
+  padding-left: 5%;
+}
+
+.main-section video {
+  margin-left: -5%;
+}
+
 .onesoft a:hover {
   color: #ffffff;
   background-color: #00abc2;
+}
+
+.cv-layout {
+  margin-top: 5%;
 }
 
 footer {
