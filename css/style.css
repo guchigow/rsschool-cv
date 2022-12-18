@@ -1,4 +1,6 @@
 .page-body {
+  box-sizing: border-box;
+  overflow: auto;
   margin: 2% auto 1% auto;
   max-width: 800px;
   min-height: 100%;
@@ -288,17 +290,102 @@ footer img {
   width: 100px;
 }
 
-.rss img {
-  margin-left: 80%;
-}
-
 .year p {
-  padding-left: 55%;
   font-size: 20px;
   font-weight: 800;
   color: #000000;
+  margin: 1%;
 }
 
 footer .footer-item a:hover {
   background-color: #f6ac3f;
+}
+
+
+@media (max-width: 800px) {
+  .page-body {
+    max-width: 600px;
+  }
+  .header-body {
+    grid-template-columns: 100%;
+    grid-template-rows: 150px;
+  }
+  .header-profile-photo {
+    border-top-right-radius: 50px;
+  }
+  .nav-list {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-top: 1%;
+  }
+  .header-body img {
+    margin: 0 auto;
+  }
+  h1 {
+    padding: 10% 5% 5%;
+    text-align: center;
+  }
+  .work-cv {
+    text-align: center;
+    margin-bottom: 5%;
+  }
+  .container .h2 h2 {
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .container .main-about .h2 h2 {
+    border-top: none;
+  }
+  .main-projects video {
+    width: 350px;
+  }
+}
+
+@media (max-width: 600px) {
+  .page-body {
+    max-width: 500px;
+  }
+  h1 {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  .skill-list {
+    grid-template-columns: 100%;
+  }
+  .main-projects video {
+    width: 300px;
+  }
+}
+@media (max-width: 500px) {
+  .page-body {
+    max-width: 400px;
+  }
+  .nav-list {
+    display: grid;
+    grid-template-columns: 100%;
+    padding-top: 1%;
+  }
+  .main-section {
+    grid-template-columns: 100%;
+    grid-template-rows: 50px;
+  }
+  .main-section .h2 h2 {
+    text-align: center;
+    border: none;
+  }
+  .main-section .main-section-content {
+    border: none;
+  }
+  footer {
+    grid-template-columns: 100%;
+    grid-template-rows: 50px;
+  }
+}
+@media (max-width: 400px) {
+  .page-body {
+    max-width: 300px;
+  }
+  .main-projects video {
+    width: 200px;
+  }
 }
