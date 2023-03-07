@@ -42,7 +42,9 @@ function validParentheses(parens) {
 }
 ```
 ---
-## 👨‍🎓 Education: Self-taught
+## 👨‍🎓 Education:
++ [RS School «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)
+![certificate](./st0.png) [pdf](https://app.rs.school/certificate/si4ompk8)
 + 📚 Books:
   * [Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages](https://www.amazon.com/Head-First-HTML-CSS-Standards-Based-dp-0596159900/dp/0596159900/ref=dp_ob_title_bk)
   * [JavaScript for Kids: A Playful Introduction to Programming](https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/ref=sr_1_1?crid=14SOE3E838OX0&keywords=js+for+kids&qid=1670682051&s=books&sprefix=js+for+kid%2Cstripbooks-intl-ship%2C245&sr=1-1)
