@@ -17,11 +17,11 @@ Long-term goal is to be great programmer and be proficient in several programmin
 ---
 
 ## 💻 My technologies 
-* html5, css, basic js 
-* basic knowledge about C 
+* html5, css, scss, less, bootstrap 
+* basic knowledge about C, basic js
 * linux, vim, bash 
 * git, github 
-* photoshop
+* photoshop, figma
 
 ---
 
