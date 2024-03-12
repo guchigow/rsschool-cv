@@ -1,6 +1,6 @@
-[markdown cv](https://guchigow.github.io/rsschool-cv/cv)
+[markdown cv](https://guch1g0v.github.io/rsschool-cv/cv)
 
-[cv html](https://guchigow.github.io/rsschool-cv/)
+[cv html](https://guch1g0v.github.io/rsschool-cv/)
 
 [plants](https://rolling-scopes-school.github.io/guchigow-JSFEPRESCHOOL2022Q4/plants/)
 
