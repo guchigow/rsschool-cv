@@ -5,8 +5,7 @@
   max-width: 800px;
   min-height: 100%;
   font-family: "RocknRoll One", "Arial", "Helvetica Neue", "Helvetica", sans-serif;
-  background-color: #110f0f;
-  background-image: url("../img/wall-min.webp");
+  background-color: #1a1a1a;
 }
 
 .page-body a {
